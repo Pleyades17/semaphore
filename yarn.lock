@@ -6299,7 +6299,7 @@ __metadata:
     "@types/inquirer": "npm:^9.0.7"
     "@types/pacote": "npm:^11.1.8"
     "@types/semver": "npm:^7.5.8"
-    axios: "npm:^1.6.7"
+    axios: "npm:^1.8.2"
     boxen: "npm:^7.1.1"
     chalk: "npm:^5.3.0"
     commander: "npm:^12.0.0"
@@ -9391,7 +9391,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^1.5.1, axios@npm:^1.6.7":
+"axios@npm:^1.5.1":
   version: 1.7.1
   resolution: "axios@npm:1.7.1"
   dependencies:
@@ -9399,6 +9399,17 @@ __metadata:
     form-data: "npm:^4.0.0"
     proxy-from-env: "npm:^1.1.0"
   checksum: 10/38de04929014eca46c04fddb916f8f8cfdf3b62f05f85f87a181898587a8e23478737bc6e9ba211fb8fe137a494032e4575741bb598bec9049159de6a5ad8edf
+  languageName: node
+  linkType: hard
+
+"axios@npm:^1.8.2":
+  version: 1.9.0
+  resolution: "axios@npm:1.9.0"
+  dependencies:
+    follow-redirects: "npm:^1.15.6"
+    form-data: "npm:^4.0.0"
+    proxy-from-env: "npm:^1.1.0"
+  checksum: 10/a2f90bba56820883879f32a237e2b9ff25c250365dcafd41cec41b3406a3df334a148f90010182dfdadb4b41dc59f6f0b3e8898ff41b666d1157b5f3f4523497
   languageName: node
   linkType: hard
 
